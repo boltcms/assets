@@ -12,6 +12,11 @@
     "require-dev": {
         "bolt/core": "^5.0.6"
     },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "5.2.x-dev"
+        }
+    },
     "minimum-stability": "stable",
     "prefer-stable": true
 }
